@@ -6,6 +6,3 @@ function squareDigits(num) {
   }
   return Number(res);
 }
-
-const a = 9119; //'9119'
-console.log(squareDigits(a));
