@@ -31,3 +31,8 @@ fieldset {
 fieldset:last-of-type {
   border-bottom: none;
 }
+
+label {
+  display: block;
+  margin: 0.5rem 0;
+}
