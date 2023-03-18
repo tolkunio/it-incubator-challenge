@@ -66,3 +66,11 @@ h2 {
   text-align: right;
   width: 25%;
 }
+
+footer {
+  font-size: 14px;
+}
+
+.address {
+  margin-bottom: 5px;
+}
