@@ -74,3 +74,19 @@ footer {
 .address {
   margin-bottom: 5px;
 }
+
+a {
+  color: black;
+}
+
+a:visited {
+  color: black;
+}
+
+a:hover {
+  color: brown;
+}
+
+a:active {
+  color: brown;
+}
